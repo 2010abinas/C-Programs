@@ -101,10 +101,36 @@
 //	return 0;
 //}
 
+//#include <iostream>
+//
+//using namespace std;
+//
+//int readNumber(int x, int y){
+// 	cin>>x>>y;
+// 	return x+y;
+//}
+//
+//void writeAnswer(int z){
+//	cout<<"Sum of two numbers: "<<z;
+//}
+//
+//int main()
+//{
+//	int a,b,c;
+//	c=readNumber(a,b);
+//	writeAnswer(c);
+//	return 0;
+//}
 
+#include <iostream>
 
-
-
+ 
+using namespace std;
+int main()
+{
+   int x {8};
+   cout<<x;
+}
 
 
 
